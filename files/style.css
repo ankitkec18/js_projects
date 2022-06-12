@@ -309,7 +309,7 @@ header a.conbtn:hover {
   width: 100%;
   padding-left: 1rem;
   background:
-    #009ade;
+  #518696;
 }
 
 .project .box-container .box .content .tag h3 {
@@ -350,12 +350,12 @@ header a.conbtn:hover {
   border-radius: .5rem;
   font-size: 1.6rem;
   color: #fff;
-  background: #009ade;
+  background: #518696;
   margin-right: 2rem;
 }
 
 .project .desc .btns .btn:hover {
-  background: #6547e9f5;
+  background: #554e76f5;
 }
 
 /* project section ends */
